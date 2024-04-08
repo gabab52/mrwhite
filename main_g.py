@@ -21,3 +21,5 @@ while len(ruoli.keys())>3:
 
 #lista bug
 # a volte mr white non viene assegnato
+
+# adesso aggiungo questo solo per vedere se funziona il commit
